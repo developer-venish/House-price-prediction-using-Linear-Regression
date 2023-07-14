@@ -65,7 +65,7 @@ The given code performs linear regression to predict house prices based on the a
 
 21. Print the final predicted price. The format method is used to insert `x` and `y[0]` into the string to display the values.
 
-Note: The code assumes that the dataset contains an "area" column for the independent variable and a "price" column for the dependent variable. Make sure the dataset is structured accordingly.
+# Note: The code assumes that the dataset contains an "area" column for the independent variable and a "price" column for the dependent variable. Make sure the dataset is structured accordingly.
 ---------------------------------------------------------------------------------------
 
 Linear regression is a statistical modeling technique used to understand the relationship between a dependent variable and one or more independent variables. It assumes a linear relationship between the variables, meaning that a change in the independent variable(s) is expected to cause a proportional change in the dependent variable.
